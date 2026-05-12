@@ -102,3 +102,23 @@ Sorted Array:
 | ``` void sort_array(array *arr) ``` | Sorts the array in ascending order (Bubble Sort). |
 | ``` int search_value_exists(void *value, array *arr) ``` | Returns 1 if the value exists, 0 otherwise. |
 | ``` void search_pos_by_value(void *val, array *arr, int *idxs, int *cnt) ``` | Populates idxs array with positions where val is found. |
+
+## Contribution
+First off, thank you for considering contributing to this project! It’s people like you that make the open-source community such an amazing place to learn, inspire, and create.
+### How Can I Contribute?
+* **Reporting Bugs:** If you find a bug, please open an issue and include a detailed description of the problem and steps to reproduce it.
+* **Suggesting Enhancements:** Have an idea for a new function/feature? Open an issue to discuss it with the community.
+  
+### Pull Requests:
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix (git checkout -b feature/YourFeature).
+- Commit your changes with clear, descriptive messages.
+- Push your branch to your fork.
+- Open a Pull Request describing your changes.
+
+### Code of Conduct
+Please be mindful and respectful in all your interactions. I aim to foster a welcoming and inclusive environment for everyone.
+
+### Getting Help
+If you have questions or need guidance on where to start, feel free to open an issue or reach out to the me. Every contribution, no matter how small is valuable!
